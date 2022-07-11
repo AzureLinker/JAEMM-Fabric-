@@ -1,0 +1,10 @@
+{
+  "item.vanillaextended.oak_bark": "Дубовая Кора",
+  "item.vanillaextended.birch_bark": "Берёзовая Кора",
+
+  "block.vanillaextended.polished_andesite_bricks": "Кирпичи из Полированного Андезита",
+  "block.vanillaextended.polished_diorite_bricks": "Кирпичи из Полированного Диорита",
+  "block.vanillaextended.polished_granite_bricks": "Кирпичи из Полированного Гранита",
+
+  "itemGroup.vanillaextended.vanilla_extended": "Дополненная Ванилла"
+}
