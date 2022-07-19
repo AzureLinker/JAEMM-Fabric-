@@ -20,6 +20,8 @@ public class ModBlocks {
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_GRANITE_BRICKS = registerBlock("polished_granite_bricks",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block BAMBOO_FLOOR = registerBlock("bamboo_floor",
+            new Block(FabricBlockSettings.of(Material.BAMBOO).strength(0.3f)), ModItemGroup.VANILLA_EXTENDED);
 
     private static Block registerBlock(String name, Block block, ItemGroup tab){
         registerBlockItem(name, block, tab);
