@@ -5,7 +5,9 @@
   "block.vanillaextended.polished_andesite_bricks": "Цегла з Полірованого Андезита",
   "block.vanillaextended.polished_diorite_bricks": "Цегла з Полірованого Діориту",
   "block.vanillaextended.polished_granite_bricks": "Цегла з Полірованого Граніту.",
-  "block.vanillaextended.bamboo_floor": "Бамбукова Підлога",
+  "block.vanillaextended.bamboo_floor": "Бамбуковий Блок",
+  "block.vanillaextended.reinforced_bamboo_floor": "Укріплений Бамбуковий Блок",
+  "block.vanillaextended.bamboo_planks": "Бамбукові Дошки",
 
   "itemGroup.vanillaextended.vanilla_extended": "Доповнена Ваніла"
 }

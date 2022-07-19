@@ -5,7 +5,9 @@
   "block.vanillaextended.polished_andesite_bricks": "Polierter Andesit-Ziegel",
   "block.vanillaextended.polished_diorite_bricks": "Polierter Diorit-Ziegel",
   "block.vanillaextended.polished_granite_bricks": "Polierter Granitziegel",
-  "block.vanillaextended.bamboo_floor": "Bambusboden",
+  "block.vanillaextended.bamboo_floor": "Bambusblock",
+  "block.vanillaextended.reinforced_bamboo_floor": "Verstärkter Bambusblock",
+  "block.vanillaextended.bamboo_planks": "Bambusbretter",
 
   "itemGroup.vanillaextended.vanilla_extended": "Vanilla Extended"
 }

@@ -5,7 +5,9 @@
   "block.vanillaextended.polished_andesite_bricks": "Кирпичи из Полированного Андезита",
   "block.vanillaextended.polished_diorite_bricks": "Кирпичи из Полированного Диорита",
   "block.vanillaextended.polished_granite_bricks": "Кирпичи из Полированного Гранита",
-  "block.vanillaextended.bamboo_floor": "Бамбуковый Пол",
+  "block.vanillaextended.bamboo_floor": "Бамбуковый Блок",
+  "block.vanillaextended.reinforced_bamboo_floor": "Укреплённый Бамбуковый Блок",
+  "block.vanillaextended.bamboo_planks": "Бамбуковые Доски",
 
   "itemGroup.vanillaextended.vanilla_extended": "Дополненная Ванилла"
 }

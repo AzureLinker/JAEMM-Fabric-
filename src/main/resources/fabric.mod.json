@@ -9,8 +9,8 @@
     "ZianU"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": "https://github.com/AzureLinker/VanillaExtendedFabric"
   },
 
   "license": "MIT License",
