@@ -1,13 +1,18 @@
 {
   "item.vanillaextended.oak_bark": "Дубова Кора",
   "item.vanillaextended.birch_bark": "Березова Кора",
+  "item.vanillaextended.acacia_bark": "Акацієва Кора",
+  "item.vanillaextended.dark_oak_bark": "Кора Темного Дуба",
+  "item.vanillaextended.jungle_bark": "Тропічна Кора",
+  "item.vanillaextended.mangrove_bark": "Мангрова Кора",
+  "item.vanillaextended.spruce_bark": "Ялинова Кора",
+  "item.vanillaextended.twine": "Мотузка",
 
   "block.vanillaextended.polished_andesite_bricks": "Цегла з Полірованого Андезита",
   "block.vanillaextended.polished_diorite_bricks": "Цегла з Полірованого Діориту",
   "block.vanillaextended.polished_granite_bricks": "Цегла з Полірованого Граніту.",
   "block.vanillaextended.bamboo_floor": "Бамбуковий Блок",
   "block.vanillaextended.reinforced_bamboo_floor": "Укріплений Бамбуковий Блок",
-  "block.vanillaextended.bamboo_planks": "Бамбукові Дошки",
 
   "itemGroup.vanillaextended.vanilla_extended": "Доповнена Ваніла"
 }

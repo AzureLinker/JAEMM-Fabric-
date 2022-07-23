@@ -3,7 +3,7 @@
   "group": "bark",
   "ingredients": [
     {
-      "item": "minecraft:oak_log"
+      "item": "minecraft:spruce_log"
     },
     {
       "item": "minecraft:shears"
@@ -11,6 +11,6 @@
   ],
   "result": {
     "count": 4,
-    "item": "vanillaextended:oak_bark"
+    "item": "vanillaextended:spruce_bark"
   }
 }

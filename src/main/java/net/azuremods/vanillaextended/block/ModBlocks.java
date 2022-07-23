@@ -25,8 +25,6 @@ public class ModBlocks {
             new Block(FabricBlockSettings.of(Material.BAMBOO).strength(0.3f).sounds(BlockSoundGroup.BAMBOO)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block REINFORCED_BAMBOO_FLOOR = registerBlock("reinforced_bamboo_floor",
             new Block(FabricBlockSettings.of(Material.BAMBOO).strength(1.5f).requiresTool().sounds(BlockSoundGroup.BAMBOO)), ModItemGroup.VANILLA_EXTENDED);
-    public static final Block BAMBOO_PLANKS = registerBlock("bamboo_planks",
-            new Block(FabricBlockSettings.of(Material.BAMBOO).strength(0.3f).sounds(BlockSoundGroup.WOOD)), ModItemGroup.VANILLA_EXTENDED);
 
     private static Block registerBlock(String name, Block block, ItemGroup tab){
         registerBlockItem(name, block, tab);

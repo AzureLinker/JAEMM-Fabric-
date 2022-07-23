@@ -12,7 +12,7 @@ public class VanillaExtended implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		ModItems.registerModItems();
 		ModBlocks.registerBlocks();
+		ModItems.registerModItems();
 	}
 }

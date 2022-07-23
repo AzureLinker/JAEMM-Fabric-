@@ -1,12 +1,17 @@
 {
   "item.vanillaextended.oak_bark": "Oak Bark",
   "item.vanillaextended.birch_bark": "Birch Bark",
+  "item.vanillaextended.acacia_bark": "Acacia Bark",
+  "item.vanillaextended.dark_oak_bark": "Dark Oak Bark",
+  "item.vanillaextended.jungle_bark": "Jungle Bark",
+  "item.vanillaextended.mangrove_bark": "Mangrove Bark",
+  "item.vanillaextended.spruce_bark": "Spruce Bark",
+  "item.vanillaextended.twine": "Twine",
 
   "block.vanillaextended.polished_andesite_bricks": "Polished Andesite Bricks",
   "block.vanillaextended.polished_diorite_bricks": "Polished Diorite Bricks",
   "block.vanillaextended.polished_granite_bricks": "Polished Granite Bricks",
   "block.vanillaextended.bamboo_floor": "Bamboo Block",
-  "block.vanillaextended.bamboo_planks": "Bamboo Planks",
 
   "itemGroup.vanillaextended.vanilla_extended": "Vanilla Extended"
 }

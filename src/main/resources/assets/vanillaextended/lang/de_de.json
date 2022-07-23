@@ -1,13 +1,18 @@
 {
   "item.vanillaextended.oak_bark": "Eichenrinde",
   "item.vanillaextended.birch_bark": "Birkenrinde",
+  "item.vanillaextended.acacia_bark": "Akazienrinde",
+  "item.vanillaextended.dark_oak_bark": "Dunkle Eichenrinde",
+  "item.vanillaextended.jungle_bark": "Dschungelrinde",
+  "item.vanillaextended.mangrove_bark": "Mangrovenrinde",
+  "item.vanillaextended.spruce_bark": "Fichtenrinde",
+  "item.vanillaextended.twine": "Schnur",
 
   "block.vanillaextended.polished_andesite_bricks": "Polierter Andesit-Ziegel",
   "block.vanillaextended.polished_diorite_bricks": "Polierter Diorit-Ziegel",
   "block.vanillaextended.polished_granite_bricks": "Polierter Granitziegel",
   "block.vanillaextended.bamboo_floor": "Bambusblock",
   "block.vanillaextended.reinforced_bamboo_floor": "Verstärkter Bambusblock",
-  "block.vanillaextended.bamboo_planks": "Bambusbretter",
 
   "itemGroup.vanillaextended.vanilla_extended": "Vanilla Extended"
 }
