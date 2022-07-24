@@ -22,5 +22,8 @@
   "block.vanillaextended.bamboo_floor": "Bambusblock",
   "block.vanillaextended.reinforced_bamboo_floor": "Verstärkter Bambusblock",
 
-  "itemGroup.vanillaextended.vanilla_extended": "Vanilla Extended"
+  "itemGroup.vanillaextended.vanilla_extended": "Vanille Verlängert",
+
+  "advancements.vanillaextended.industrial_revolution.title": "Industrielle Revolution",
+  "advancements.vanillaextended.industrial_revolution.description": "Erhalte rohen Stahl, um neue Werkzeuge herzustellen"
 }

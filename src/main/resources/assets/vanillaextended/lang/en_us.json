@@ -20,6 +20,10 @@
   "block.vanillaextended.polished_diorite_bricks": "Polished Diorite Bricks",
   "block.vanillaextended.polished_granite_bricks": "Polished Granite Bricks",
   "block.vanillaextended.bamboo_floor": "Bamboo Block",
+  "block.vanillaextended.reinforced_bamboo_floor": "Reinforced Bamboo Block",
 
-  "itemGroup.vanillaextended.vanilla_extended": "Vanilla Extended"
+  "itemGroup.vanillaextended.vanilla_extended": "Vanilla Extended",
+
+  "advancements.vanillaextended.industrial_revolution.title": "Industrial Revolution",
+  "advancements.vanillaextended.industrial_revolution.description": "Make a raw steel for future instruments"
 }

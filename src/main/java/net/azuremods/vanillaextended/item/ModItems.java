@@ -6,7 +6,6 @@ import net.azuremods.vanillaextended.item.custom.ModHoeItem;
 import net.azuremods.vanillaextended.item.custom.ModPickaxeItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ShovelItem;
 import net.minecraft.item.SwordItem;
 import net.minecraft.util.Identifier;
@@ -35,19 +34,19 @@ public class ModItems {
     public static final Item TWINE = registerItem("twine",
             new Item(new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item STEEL_SWORD = registerItem("steel_sword",
-            new SwordItem(ModToolMaterials.STEEL, 4, -2.3f,
+            new SwordItem(ModToolMaterials.STEEL, 3, -2.3f,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item STEEL_AXE = registerItem("steel_axe",
-            new ModAxeItem(ModToolMaterials.STEEL, 5, -2.9f,
+            new ModAxeItem(ModToolMaterials.STEEL, 3, -2.9f,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item STEEL_HOE = registerItem("steel_hoe",
             new ModHoeItem(ModToolMaterials.STEEL, 0, -3f,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item STEEL_SHOVEL = registerItem("steel_shovel",
-            new ShovelItem(ModToolMaterials.STEEL, 0, -4f,
+            new ShovelItem(ModToolMaterials.STEEL, 0, -3f,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item STEEL_PICKAXE = registerItem("steel_pickaxe",
-            new ModPickaxeItem(ModToolMaterials.STEEL, 1, -3f,
+            new ModPickaxeItem(ModToolMaterials.STEEL, 0, -3f,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
 
     private static Item registerItem(String name, Item item){

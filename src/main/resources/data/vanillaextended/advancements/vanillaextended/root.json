@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "vanillaextended:raw_steel"
+    },
+    "title": {
+      "translate": "advancements.vanillaextended.industrial_revolution.title"
+    },
+    "description": {
+      "translate": "advancements.vanillaextended.industrial_revolution.description"
+    },
+    "frame": "task",
+    "background": "vanillaextended:textures/block/bamboo_floor.png",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "raw_steel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanillaextended:raw_steel"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "raw_steel"
+    ]
+  ]
+}

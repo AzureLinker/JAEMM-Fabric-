@@ -22,5 +22,8 @@
   "block.vanillaextended.bamboo_floor": "Бамбуковый Блок",
   "block.vanillaextended.reinforced_bamboo_floor": "Укреплённый Бамбуковый Блок",
 
-  "itemGroup.vanillaextended.vanilla_extended": "Дополненная Ванилла"
+  "itemGroup.vanillaextended.vanilla_extended": "Дополненная Ванилла",
+
+  "advancements.vanillaextended.industrial_revolution.title": "Промышленная революция",
+  "advancements.vanillaextended.industrial_revolution.description": "Получите сырую сталь, дабы сделать новые инструменты"
 }
