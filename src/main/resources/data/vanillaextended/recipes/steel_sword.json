@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "vanillaextended:steel_ingot"
+    },
+    "P": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "S",
+    "S",
+    "P"
+  ],
+  "result": {
+    "item": "vanillaextended:steel_sword"
+  }
+}

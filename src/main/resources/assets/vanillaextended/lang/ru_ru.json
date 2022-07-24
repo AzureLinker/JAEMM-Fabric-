@@ -1,4 +1,6 @@
 {
+  "item.vanillaextended.steel_ingot": "Слиток Стали",
+  "item.vanillaextended.raw_steel": "Сырая Сталь",
   "item.vanillaextended.oak_bark": "Дубовая Кора",
   "item.vanillaextended.birch_bark": "Берёзовая Кора",
   "item.vanillaextended.acacia_bark": "Акациевая Кора",
@@ -7,6 +9,12 @@
   "item.vanillaextended.mangrove_bark": "Мангровая Кора",
   "item.vanillaextended.spruce_bark": "Еловая Кора",
   "item.vanillaextended.twine": "Бечевка",
+
+  "item.vanillaextended.steel_sword": "Стальной Меч",
+  "item.vanillaextended.steel_axe": "Стальной Топор",
+  "item.vanillaextended.steel_hoe": "Стальная Мотыга",
+  "item.vanillaextended.steel_shovel": "Стальная Лопата",
+  "item.vanillaextended.steel_pickaxe": "Стальная Кирка",
 
   "block.vanillaextended.polished_andesite_bricks": "Кирпичи из Полированного Андезита",
   "block.vanillaextended.polished_diorite_bricks": "Кирпичи из Полированного Диорита",

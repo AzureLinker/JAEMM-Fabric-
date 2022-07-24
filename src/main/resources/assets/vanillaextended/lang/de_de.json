@@ -1,4 +1,6 @@
 {
+  "item.vanillaextended.steel_ingot": "Stahlbarren",
+  "item.vanillaextended.raw_steel": "Rohstahl",
   "item.vanillaextended.oak_bark": "Eichenrinde",
   "item.vanillaextended.birch_bark": "Birkenrinde",
   "item.vanillaextended.acacia_bark": "Akazienrinde",
@@ -7,6 +9,12 @@
   "item.vanillaextended.mangrove_bark": "Mangrovenrinde",
   "item.vanillaextended.spruce_bark": "Fichtenrinde",
   "item.vanillaextended.twine": "Schnur",
+
+  "item.vanillaextended.steel_sword": "Stahlschwert",
+  "item.vanillaextended.steel_axe": "Stahlaxt",
+  "item.vanillaextended.steel_hoe": "Stahlhacke",
+  "item.vanillaextended.steel_shovel": "Stahlschaufel",
+  "item.vanillaextended.steel_pickaxe": "Stahlspitzhacke",
 
   "block.vanillaextended.polished_andesite_bricks": "Polierter Andesit-Ziegel",
   "block.vanillaextended.polished_diorite_bricks": "Polierter Diorit-Ziegel",

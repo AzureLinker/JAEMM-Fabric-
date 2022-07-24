@@ -1,4 +1,6 @@
 {
+  "item.vanillaextended.steel_ingot": "Steel Ingot",
+  "item.vanillaextended.raw_steel": "Raw Steel",
   "item.vanillaextended.oak_bark": "Oak Bark",
   "item.vanillaextended.birch_bark": "Birch Bark",
   "item.vanillaextended.acacia_bark": "Acacia Bark",
@@ -7,6 +9,12 @@
   "item.vanillaextended.mangrove_bark": "Mangrove Bark",
   "item.vanillaextended.spruce_bark": "Spruce Bark",
   "item.vanillaextended.twine": "Twine",
+
+  "item.vanillaextended.steel_sword": "Steel Sword",
+  "item.vanillaextended.steel_axe": "Steel Axe",
+  "item.vanillaextended.steel_hoe": "Steel Hoe",
+  "item.vanillaextended.steel_shovel": "Steel Shovel",
+  "item.vanillaextended.steel_pickaxe": "Steel Pickaxe",
 
   "block.vanillaextended.polished_andesite_bricks": "Polished Andesite Bricks",
   "block.vanillaextended.polished_diorite_bricks": "Polished Diorite Bricks",
