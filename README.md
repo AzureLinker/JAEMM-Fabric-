@@ -1,5 +1,5 @@
 # Just Another Extended Minecraft Mod for Minecraft Fabric
-### Версия 0.0.2 для Minecraft 1.19
+### Версия 0.0.3 для Minecraft 1.19
 ***
 Данный мод несёт в себе идею добавления тех вещей, которые могли бы иметь место в ванильной версии игры Minecraft.
 
