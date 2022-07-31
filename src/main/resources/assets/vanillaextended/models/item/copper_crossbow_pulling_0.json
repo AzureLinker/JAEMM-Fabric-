@@ -1,0 +1,6 @@
+{
+  "parent": "vanillaextended:item/copper_crossbow",
+  "textures": {
+    "layer0": "vanillaextended:item/copper_crossbow_pulling_0"
+  }
+}

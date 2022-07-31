@@ -5,10 +5,7 @@ import net.azuremods.vanillaextended.item.custom.ModAxeItem;
 import net.azuremods.vanillaextended.item.custom.ModHoeItem;
 import net.azuremods.vanillaextended.item.custom.ModPickaxeItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
-import net.minecraft.item.BowItem;
-import net.minecraft.item.Item;
-import net.minecraft.item.ShovelItem;
-import net.minecraft.item.SwordItem;
+import net.minecraft.item.*;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
@@ -36,7 +33,9 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
 
     public static final Item COPPER_BOW = registerItem("copper_bow",
-            new BowItem(new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED).maxDamage(770)));
+            new BowItem(new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED).maxDamage(500)));
+    public static final Item COPPER_CROSSBOW = registerItem("copper_crossbow",
+            new CrossbowItem(new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED).maxDamage(626)));
     public static final Item STEEL_SWORD = registerItem("steel_sword",
             new SwordItem(ModToolMaterials.STEEL, 3, -2.3f,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));

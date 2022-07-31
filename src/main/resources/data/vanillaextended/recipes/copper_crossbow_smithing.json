@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "base": {
+    "item": "minecraft:crossbow"
+  },
+  "result": {
+    "item": "vanillaextended:copper_crossbow"
+  }
+}
