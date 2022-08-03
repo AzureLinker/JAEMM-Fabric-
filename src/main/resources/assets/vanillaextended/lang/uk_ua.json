@@ -15,14 +15,19 @@
   "item.vanillaextended.steel_hoe": "Сталева Мотика",
   "item.vanillaextended.steel_shovel": "Сталева Лопата",
   "item.vanillaextended.steel_pickaxe": "Стальна Кірка",
+  "item.vanillaextended.copper_bow": "Мідний Лук",
+  "item.vanillaextended.copper_crossbow": "Мідний Арбалет",
+
+  "item.vanillaextended.steel_helmet": "Сталевий Шолом",
+  "item.vanillaextended.steel_chestplate": "Сталевий Нагрудник",
+  "item.vanillaextended.steel_leggins": "Сталеві Поножі",
+  "item.vanillaextended.steel_boots": "Сталеві Черевики",
 
   "block.vanillaextended.polished_andesite_bricks": "Цегла з Полірованого Андезита",
   "block.vanillaextended.polished_diorite_bricks": "Цегла з Полірованого Діориту",
   "block.vanillaextended.polished_granite_bricks": "Цегла з Полірованого Граніту.",
   "block.vanillaextended.bamboo_floor": "Бамбуковий Блок",
   "block.vanillaextended.reinforced_bamboo_floor": "Укріплений Бамбуковий Блок",
-  "item.vanillaextended.copper_bow": "Мідний Лук",
-  "item.vanillaextended.copper_crossbow": "Мідний Арбалет",
 
   "itemGroup.vanillaextended.vanilla_extended": "Доповнена Ваніла",
 

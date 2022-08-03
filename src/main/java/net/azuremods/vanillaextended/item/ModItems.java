@@ -5,6 +5,7 @@ import net.azuremods.vanillaextended.item.custom.ModAxeItem;
 import net.azuremods.vanillaextended.item.custom.ModHoeItem;
 import net.azuremods.vanillaextended.item.custom.ModPickaxeItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
+import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.*;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
@@ -36,6 +37,7 @@ public class ModItems {
             new BowItem(new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED).maxDamage(500)));
     public static final Item COPPER_CROSSBOW = registerItem("copper_crossbow",
             new CrossbowItem(new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED).maxDamage(626)));
+
     public static final Item STEEL_SWORD = registerItem("steel_sword",
             new SwordItem(ModToolMaterials.STEEL, 3, -2.3f,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
@@ -50,6 +52,18 @@ public class ModItems {
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item STEEL_PICKAXE = registerItem("steel_pickaxe",
             new ModPickaxeItem(ModToolMaterials.STEEL, -1, -3f,
+                    new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
+    public static final Item STEEL_HELMET = registerItem("steel_helmet",
+            new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.HEAD,
+                    new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
+    public static final Item STEEL_CHESTPLATE = registerItem("steel_chestplate",
+            new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.CHEST,
+                    new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
+    public static final Item STEEL_LEGGINS = registerItem("steel_leggins",
+            new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.LEGS,
+                    new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
+    public static final Item STEEL_BOOTS = registerItem("steel_boots",
+            new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.FEET,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
 
     private static Item registerItem(String name, Item item){

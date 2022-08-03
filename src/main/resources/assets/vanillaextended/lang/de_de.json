@@ -18,6 +18,11 @@
   "item.vanillaextended.copper_bow": "Kupfer Bogen",
   "item.vanillaextended.copper_crossbow": "Kupferne Armbrust",
 
+  "item.vanillaextended.steel_helmet": "Stahlhelm",
+  "item.vanillaextended.steel_chestplate": "Brustpanzer aus Stahl",
+  "item.vanillaextended.steel_leggins": "Leggins aus Stahl",
+  "item.vanillaextended.steel_boots": "Stahlstiefel",
+
   "block.vanillaextended.polished_andesite_bricks": "Polierter Andesit-Ziegel",
   "block.vanillaextended.polished_diorite_bricks": "Polierter Diorit-Ziegel",
   "block.vanillaextended.polished_granite_bricks": "Polierter Granitziegel",
