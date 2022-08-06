@@ -3,6 +3,13 @@
   "values": [
     "vanillaextended:polished_andesite_bricks",
     "vanillaextended:polished_diorite_bricks",
-    "vanillaextended:polished_granite_bricks"
+    "vanillaextended:polished_granite_bricks",
+    "vanillaextended:polished_calcite",
+    "vanillaextended:polished_calcite_bricks",
+    "vanillaextended:calcite_wall",
+    "vanillaextended:calcite_slab",
+    "vanillaextended:calcite_stairs",
+    "vanillaextended:polished_calcite_slab",
+    "vanillaextended:polished_calcite_stairs"
   ]
 }

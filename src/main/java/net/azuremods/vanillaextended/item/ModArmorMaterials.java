@@ -15,7 +15,7 @@ public enum ModArmorMaterials implements ArmorMaterial {
 
     STEEL("steel", 16, new int[]{3, 5, 6, 3},
             10, SoundEvents.ITEM_ARMOR_EQUIP_IRON,
-            0.0F, 0.0F, () -> {
+            0.0F, 0.1F, () -> {
         return Ingredient.ofItems(new ItemConvertible[]{ModItems.STEEL_INGOT});
     });
 

@@ -26,6 +26,13 @@
   "block.vanillaextended.polished_andesite_bricks": "Polierter Andesit-Ziegel",
   "block.vanillaextended.polished_diorite_bricks": "Polierter Diorit-Ziegel",
   "block.vanillaextended.polished_granite_bricks": "Polierter Granitziegel",
+  "block.vanillaextended.polished_calcite": "Polierter Calcit",
+  "block.vanillaextended.polished_calcite_bricks": "Polierte Calcit-Steine",
+  "block.vanillaextended.calcite_wall": "Calcitwand",
+  "block.vanillaextended.calcite_slab": "Calcit-Platte",
+  "block.vanillaextended.calcite_stairs": "Calcit-Treppen",
+  "block.vanillaextended.polished_calcite_slab": "Polierte Calcitplatte",
+  "block.vanillaextended.polished_calcite_stairs": "Polierte Calcit-Treppe",
   "block.vanillaextended.bamboo_floor": "Bambusblock",
   "block.vanillaextended.reinforced_bamboo_floor": "Verstärkter Bambusblock",
 
