@@ -22,7 +22,7 @@ public class ModBlocks {
     public static final Block POLISHED_GRANITE_BRICKS = registerBlock("polished_granite_bricks",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_CALCITE = registerBlock("polished_calcite",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.VANILLA_EXTENDED);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_CALCITE_BRICKS = registerBlock("polished_calcite_bricks",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block CALCITE_WALL = registerBlock("calcite_wall",
