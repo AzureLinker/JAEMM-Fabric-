@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "vanillaextended:calcite_wall"
+    "vanillaextended:calcite_wall",
+    "vanillaextended:tuff_wall"
   ]
 }

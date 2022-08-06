@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "vanillaextended:block/polished_tuff",
+    "top": "vanillaextended:block/polished_tuff",
+    "side": "vanillaextended:block/polished_tuff"
+  }
+}

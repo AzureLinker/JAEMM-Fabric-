@@ -22,21 +22,37 @@ public class ModBlocks {
     public static final Block POLISHED_GRANITE_BRICKS = registerBlock("polished_granite_bricks",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_CALCITE = registerBlock("polished_calcite",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(0.75F).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_CALCITE_BRICKS = registerBlock("polished_calcite_bricks",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(0.75F).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block CALCITE_WALL = registerBlock("calcite_wall",
-            new WallBlock(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
+            new WallBlock(FabricBlockSettings.of(Material.STONE).strength(0.75F).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block CALCITE_SLAB = registerBlock("calcite_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(0.75F).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block CALCITE_STAIRS = registerBlock("calcite_stairs",
             new ModStairsBlock(Blocks.CALCITE.getDefaultState(),
-                    FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
+                    FabricBlockSettings.of(Material.STONE).strength(0.75F).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_CALCITE_SLAB = registerBlock("polished_calcite_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(0.75F).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_CALCITE_STAIRS = registerBlock("polished_calcite_stairs",
             new ModStairsBlock(Blocks.CALCITE.getDefaultState(),
-                    FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
+                    FabricBlockSettings.of(Material.STONE).strength(0.75F).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block POLISHED_TUFF = registerBlock("polished_tuff",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(1.5f, 6.0f).requiresTool().sounds(BlockSoundGroup.TUFF)), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block POLISHED_TUFF_BRICKS = registerBlock("polished_tuff_bricks",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(1.5f, 6.0f).requiresTool().sounds(BlockSoundGroup.TUFF)), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block TUFF_WALL = registerBlock("tuff_wall",
+            new WallBlock(FabricBlockSettings.of(Material.STONE).strength(1.5f, 6.0f).requiresTool().sounds(BlockSoundGroup.TUFF)), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block TUFF_SLAB = registerBlock("tuff_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.5f, 6.0f).requiresTool().sounds(BlockSoundGroup.TUFF)), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block TUFF_STAIRS = registerBlock("tuff_stairs",
+            new ModStairsBlock(Blocks.CALCITE.getDefaultState(),
+                    FabricBlockSettings.of(Material.STONE).strength(1.5f, 6.0f).requiresTool().sounds(BlockSoundGroup.TUFF)), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block POLISHED_TUFF_SLAB = registerBlock("polished_tuff_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.5f, 6.0f).requiresTool().sounds(BlockSoundGroup.TUFF)), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block POLISHED_TUFF_STAIRS = registerBlock("polished_tuff_stairs",
+            new ModStairsBlock(Blocks.CALCITE.getDefaultState(),
+                    FabricBlockSettings.of(Material.STONE).strength(1.5f, 6.0f).requiresTool().sounds(BlockSoundGroup.TUFF)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block BAMBOO_FLOOR = registerBlock("bamboo_floor",
             new Block(FabricBlockSettings.of(Material.BAMBOO).strength(0.3f).sounds(BlockSoundGroup.BAMBOO)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block REINFORCED_BAMBOO_FLOOR = registerBlock("reinforced_bamboo_floor",

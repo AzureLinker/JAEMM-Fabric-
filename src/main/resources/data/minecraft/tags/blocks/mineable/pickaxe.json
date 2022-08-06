@@ -10,6 +10,13 @@
     "vanillaextended:calcite_slab",
     "vanillaextended:calcite_stairs",
     "vanillaextended:polished_calcite_slab",
-    "vanillaextended:polished_calcite_stairs"
+    "vanillaextended:polished_calcite_stairs",
+    "vanillaextended:polished_tuff",
+    "vanillaextended:polished_tuff_bricks",
+    "vanillaextended:tuff_wall",
+    "vanillaextended:tuff_slab",
+    "vanillaextended:tuff_stairs",
+    "vanillaextended:polished_tuff_slab",
+    "vanillaextended:polished_tuff_stairs"
   ]
 }
