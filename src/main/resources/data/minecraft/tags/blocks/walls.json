@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "vanillaextended:calcite_wall",
-    "vanillaextended:tuff_wall"
+    "vanillaextended:tuff_wall",
+    "vanillaextended:polished_calcite_brick_wall",
+    "vanillaextended:polished_tuff_brick_wall"
   ]
 }

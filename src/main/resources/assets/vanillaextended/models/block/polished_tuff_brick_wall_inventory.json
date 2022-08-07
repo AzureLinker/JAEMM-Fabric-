@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "vanillaextended:block/polished_tuff_bricks"
+  }
+}
