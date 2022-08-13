@@ -16,6 +16,10 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item RAW_STEEL = registerItem("raw_steel",
             new Item(new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
+    public static final Item MYTHRIL_INGOT = registerItem("mythril_ingot",
+            new Item(new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
+    public static final Item RAW_MYTHRIL = registerItem("raw_mythril",
+            new Item(new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item OAK_BARK = registerItem("oak_bark",
             new Item(new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item BIRCH_BARK = registerItem("birch_bark",

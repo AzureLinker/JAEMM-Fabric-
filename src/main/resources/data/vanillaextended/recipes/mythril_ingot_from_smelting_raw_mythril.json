@@ -4,7 +4,7 @@
   "experience": 1.0,
   "group": "steel",
   "ingredient": {
-    "item": "vanillaextended:raw_steel"
+    "item": "vanillaextended:raw_mythril"
   },
-  "result": "vanillaextended:steel_ingot"
+  "result": "vanillaextended:mythril_ingot"
 }

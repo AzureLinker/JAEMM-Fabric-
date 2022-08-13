@@ -2,7 +2,7 @@
   "type": "minecraft:blasting",
   "cookingtime": 100,
   "experience": 1.0,
-  "group": "diamond",
+  "group": "steel",
   "ingredient": {
     "item": "vanillaextended:raw_steel"
   },

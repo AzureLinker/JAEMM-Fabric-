@@ -11,6 +11,9 @@ public enum ModToolMaterials implements ToolMaterial {
 
     STEEL(2, 450, 6.5F, 2.5F, 14, () -> {
         return Ingredient.ofItems(new ItemConvertible[]{ModItems.STEEL_INGOT});
+    }),
+    MYTHRIL(4, 1780, 8.0F, 3.0F, 12, () -> {
+        return Ingredient.ofItems(new ItemConvertible[]{ModItems.MYTHRIL_INGOT});
     });
 
     private final int miningLevel;
