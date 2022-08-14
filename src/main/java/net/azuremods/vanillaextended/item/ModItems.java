@@ -45,17 +45,32 @@ public class ModItems {
     public static final Item STEEL_SWORD = registerItem("steel_sword",
             new SwordItem(ModToolMaterials.STEEL, 3, -2.3f,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
+    public static final Item MYTHRIL_SWORD = registerItem("mythril_sword",
+            new SwordItem(ModToolMaterials.MYTHRIL, 4, -2.4f,
+                    new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item STEEL_AXE = registerItem("steel_axe",
             new ModAxeItem(ModToolMaterials.STEEL, 6, -2.9f,
+                    new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
+    public static final Item MYTHRIL_AXE = registerItem("mythril_axe",
+            new ModAxeItem(ModToolMaterials.MYTHRIL, 7, -3.0f,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item STEEL_HOE = registerItem("steel_hoe",
             new ModHoeItem(ModToolMaterials.STEEL, -2, 0f,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
+    public static final Item MYTHRIL_HOE = registerItem("mythril_hoe",
+            new ModHoeItem(ModToolMaterials.MYTHRIL, -1, 0f,
+                    new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item STEEL_SHOVEL = registerItem("steel_shovel",
             new ShovelItem(ModToolMaterials.STEEL, -2, -3f,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
+    public static final Item MYTHRIL_SHOVEL = registerItem("mythril_shovel",
+            new ShovelItem(ModToolMaterials.MYTHRIL, -2, -3f,
+                    new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item STEEL_PICKAXE = registerItem("steel_pickaxe",
             new ModPickaxeItem(ModToolMaterials.STEEL, -1, -3f,
+                    new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
+    public static final Item MYTHRIL_PICKAXE = registerItem("mythril_pickaxe",
+            new ModPickaxeItem(ModToolMaterials.MYTHRIL, -1, -3f,
                     new FabricItemSettings().group(ModItemGroup.VANILLA_EXTENDED)));
     public static final Item STEEL_HELMET = registerItem("steel_helmet",
             new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.HEAD,

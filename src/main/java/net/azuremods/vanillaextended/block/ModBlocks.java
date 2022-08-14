@@ -18,13 +18,17 @@ public class ModBlocks {
 
     public static final Block MYTHRIL_DEEPSLATE_ORE = registerBlock("mythril_deepslate_ore",
             new OreBlock(FabricBlockSettings.of(Material.STONE).strength(2.5f).requiresTool().sounds(BlockSoundGroup.DEEPSLATE),
-                    UniformIntProvider.create(3, 7)), ModItemGroup.VANILLA_EXTENDED);
+                    UniformIntProvider.create(0, 0)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_ANDESITE_BRICKS = registerBlock("polished_andesite_bricks",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_DIORITE_BRICKS = registerBlock("polished_diorite_bricks",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_GRANITE_BRICKS = registerBlock("polished_granite_bricks",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block STEEL_BLOCK = registerBlock("steel_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(3f).requiresTool().sounds(BlockSoundGroup.METAL)), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block MYTHRIL_BLOCK = registerBlock("mythril_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool().sounds(BlockSoundGroup.METAL)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_CALCITE = registerBlock("polished_calcite",
             new Block(FabricBlockSettings.of(Material.STONE).strength(0.75F).requiresTool().sounds(BlockSoundGroup.CALCITE)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_CALCITE_BRICKS = registerBlock("polished_calcite_bricks",

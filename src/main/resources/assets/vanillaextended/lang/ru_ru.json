@@ -1,6 +1,8 @@
 {
   "item.vanillaextended.steel_ingot": "Стальной Слиток",
   "item.vanillaextended.raw_steel": "Сырая Сталь",
+  "item.vanillaextended.mythril_ingot": "Слиток Митрила",
+  "item.vanillaextended.raw_mythril": "Сырой Митрил",
   "item.vanillaextended.oak_bark": "Дубовая Кора",
   "item.vanillaextended.birch_bark": "Берёзовая Кора",
   "item.vanillaextended.acacia_bark": "Акациевая Кора",
@@ -11,10 +13,15 @@
   "item.vanillaextended.twine": "Бечевка",
 
   "item.vanillaextended.steel_sword": "Стальной Меч",
+  "item.vanillaextended.mythril_sword": "Митриловый Меч",
   "item.vanillaextended.steel_axe": "Стальной Топор",
+  "item.vanillaextended.mythril_axe": "Митриловый Топор",
   "item.vanillaextended.steel_hoe": "Стальная Мотыга",
+  "item.vanillaextended.mythril_hoe": "Митриловая Мотыга",
   "item.vanillaextended.steel_shovel": "Стальная Лопата",
+  "item.vanillaextended.mythril_shovel": "Митриловая Лопата",
   "item.vanillaextended.steel_pickaxe": "Стальная Кирка",
+  "item.vanillaextended.mythril_pickaxe": "Митриловая Кирка",
   "item.vanillaextended.copper_bow": "Медный Лук",
   "item.vanillaextended.copper_crossbow": "Медный Арбалет",
 
@@ -23,9 +30,12 @@
   "item.vanillaextended.steel_leggins": "Стальные Поножи",
   "item.vanillaextended.steel_boots": "Стальные Ботинки",
 
+  "block.vanillaextended.mythril_deepslate_ore": "Митриловая Глубинносланцевая Руда",
   "block.vanillaextended.polished_andesite_bricks": "Кирпичи из Полированного Андезита",
   "block.vanillaextended.polished_diorite_bricks": "Кирпичи из Полированного Диорита",
   "block.vanillaextended.polished_granite_bricks": "Кирпичи из Полированного Гранита",
+  "block.vanillaextended.steel_block": "Блок Стали",
+  "block.vanillaextended.mythril_block": "Митриловый Блок",
   "block.vanillaextended.polished_calcite": "Полированный Кальцит",
   "block.vanillaextended.polished_calcite_bricks": "Кирпичи из Полированного Кальцита",
   "block.vanillaextended.calcite_wall": "Кальцитовая Стена",
