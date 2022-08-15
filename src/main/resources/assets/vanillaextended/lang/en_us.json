@@ -3,6 +3,7 @@
   "item.vanillaextended.raw_steel": "Raw Steel",
   "item.vanillaextended.mythril_ingot": "Mythril Ingot",
   "item.vanillaextended.raw_mythril": "Raw Mythril",
+  "item.vanillaextended.osmite": "Osmite",
   "item.vanillaextended.oak_bark": "Oak Bark",
   "item.vanillaextended.birch_bark": "Birch Bark",
   "item.vanillaextended.acacia_bark": "Acacia Bark",
@@ -31,6 +32,8 @@
   "item.vanillaextended.steel_boots": "Steel Boots",
 
   "block.vanillaextended.mythril_deepslate_ore": "Mythril Deepslate Ore",
+  "block.vanillaextended.osmite_deepslate_ore": "Osmite Deepslate Ore",
+  "block.vanillaextended.osmite_ore": "Osmite Ore",
   "block.vanillaextended.polished_andesite_bricks": "Polished Andesite Bricks",
   "block.vanillaextended.polished_diorite_bricks": "Polished Diorite Bricks",
   "block.vanillaextended.polished_granite_bricks": "Polished Granite Bricks",

@@ -11,7 +11,9 @@ import java.util.List;
 public class ModPlacedFeatures {
 
     public static final RegistryEntry<PlacedFeature> MYTHRIL_ORE_PLACED = PlacedFeatures.register("mytrhil_ore_placed",
-            ModConfiguredFeatures.MYTHRIL_ORE, modifiersWithCount(7, HeightRangePlacementModifier.trapezoid(YOffset.fixed(-64), YOffset.fixed(0))));
+            ModConfiguredFeatures.MYTHRIL_ORE, modifiersWithCount(4, HeightRangePlacementModifier.trapezoid(YOffset.fixed(-64), YOffset.fixed(0))));
+    public static final RegistryEntry<PlacedFeature> OSMITE_ORE_PLACED = PlacedFeatures.register("osmite_ore_placed",
+            ModConfiguredFeatures.OSMITE_ORE, modifiersWithCount(10, HeightRangePlacementModifier.trapezoid(YOffset.fixed(-64), YOffset.fixed(80))));
 
     private static List<PlacementModifier> modifiers(PlacementModifier countModifier, PlacementModifier heightModifier){
         return List.of(countModifier, SquarePlacementModifier.of(), heightModifier, BiomePlacementModifier.of());

@@ -19,6 +19,12 @@ public class ModBlocks {
     public static final Block MYTHRIL_DEEPSLATE_ORE = registerBlock("mythril_deepslate_ore",
             new OreBlock(FabricBlockSettings.of(Material.STONE).strength(2.5f).requiresTool().sounds(BlockSoundGroup.DEEPSLATE),
                     UniformIntProvider.create(0, 0)), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block OSMITE_DEEPSLATE_ORE = registerBlock("osmite_deepslate_ore",
+            new OreBlock(FabricBlockSettings.of(Material.STONE).strength(2.5f).requiresTool().sounds(BlockSoundGroup.DEEPSLATE),
+                    UniformIntProvider.create(0, 1)), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block OSMITE_ORE = registerBlock("osmite_ore",
+            new OreBlock(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool().sounds(BlockSoundGroup.STONE),
+                    UniformIntProvider.create(0, 0)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_ANDESITE_BRICKS = registerBlock("polished_andesite_bricks",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2f).requiresTool()), ModItemGroup.VANILLA_EXTENDED);
     public static final Block POLISHED_DIORITE_BRICKS = registerBlock("polished_diorite_bricks",

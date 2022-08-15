@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "vanillaextended:block/osmite_deepslate_ore"
+  }
+}
