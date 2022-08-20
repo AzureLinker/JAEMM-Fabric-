@@ -3,6 +3,7 @@
   "item.vanillaextended.raw_steel": "Сырая Сталь",
   "item.vanillaextended.mythril_ingot": "Слиток Митрила",
   "item.vanillaextended.raw_mythril": "Сырой Митрил",
+  "item.vanillaextended.osmite": "Осмит",
   "item.vanillaextended.oak_bark": "Дубовая Кора",
   "item.vanillaextended.birch_bark": "Берёзовая Кора",
   "item.vanillaextended.acacia_bark": "Акациевая Кора",
@@ -31,6 +32,8 @@
   "item.vanillaextended.steel_boots": "Стальные Ботинки",
 
   "block.vanillaextended.mythril_deepslate_ore": "Митриловая Глубинносланцевая Руда",
+  "block.vanillaextended.osmite_deepslate_ore": "Осмитовая Глубинносланцевая Руда",
+  "block.vanillaextended.osmite_ore": "Осмитовая руда",
   "block.vanillaextended.polished_andesite_bricks": "Кирпичи из Полированного Андезита",
   "block.vanillaextended.polished_diorite_bricks": "Кирпичи из Полированного Диорита",
   "block.vanillaextended.polished_granite_bricks": "Кирпичи из Полированного Гранита",

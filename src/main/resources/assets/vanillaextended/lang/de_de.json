@@ -3,6 +3,7 @@
   "item.vanillaextended.raw_steel": "Rohstahl",
   "item.vanillaextended.mythril_ingot": "Mithril-Barren",
   "item.vanillaextended.raw_mythril": "Roher Mithril",
+  "item.vanillaextended.osmite": "Osmit",
   "item.vanillaextended.oak_bark": "Eichenrinde",
   "item.vanillaextended.birch_bark": "Birkenrinde",
   "item.vanillaextended.acacia_bark": "Akazienrinde",
@@ -30,7 +31,9 @@
   "item.vanillaextended.steel_leggins": "Leggins aus Stahl",
   "item.vanillaextended.steel_boots": "Stahlstiefel",
 
-  "block.vanillaextended.mythril_deepslate_ore": "Mithril-Spitzhacke",
+  "block.vanillaextended.mythril_deepslate_ore": "Mithril-Tiefenschiefer-Erz",
+  "block.vanillaextended.osmite_deepslate_ore": "Osmit-Tiefenschiefer-Erz",
+  "block.vanillaextended.osmite_ore": "Osmit-Erz",
   "block.vanillaextended.polished_andesite_bricks": "Polierter Andesit-Ziegel",
   "block.vanillaextended.polished_diorite_bricks": "Polierter Diorit-Ziegel",
   "block.vanillaextended.polished_granite_bricks": "Polierter Granitziegel",
