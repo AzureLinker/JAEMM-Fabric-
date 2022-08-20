@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:glowstone"
+    },
+    "O": {
+      "item": "vanillaextended:osmite"
+    },
+    "D": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "pattern": [
+    "RGR",
+    "GSG",
+    "DOD"
+  ],
+  "result": {
+    "count": 4,
+    "item": "vanillaextended:white_lamp"
+  }
+}

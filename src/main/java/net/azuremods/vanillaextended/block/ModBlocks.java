@@ -1,6 +1,7 @@
 package net.azuremods.vanillaextended.block;
 
 import net.azuremods.vanillaextended.VanillaExtended;
+import net.azuremods.vanillaextended.block.custom.ModLampBlock;
 import net.azuremods.vanillaextended.block.custom.ModStairsBlock;
 import net.azuremods.vanillaextended.item.ModItemGroup;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
@@ -75,6 +76,39 @@ public class ModBlocks {
             new Block(FabricBlockSettings.of(Material.BAMBOO).strength(0.3f).sounds(BlockSoundGroup.BAMBOO)), ModItemGroup.VANILLA_EXTENDED);
     public static final Block REINFORCED_BAMBOO_FLOOR = registerBlock("reinforced_bamboo_floor",
             new Block(FabricBlockSettings.of(Material.BAMBOO).strength(1.5f).requiresTool().sounds(BlockSoundGroup.BAMBOO)), ModItemGroup.VANILLA_EXTENDED);
+    public static final Block BLUE_LAMP = registerBlock("blue_lamp",
+            new ModLampBlock(FabricBlockSettings.of(Material.REDSTONE_LAMP).strength(0.3f).requiresTool().sounds(BlockSoundGroup.GLASS).luminance(state -> state.get(ModLampBlock.LIT) ? 15 : 0)),
+            ModItemGroup.VANILLA_EXTENDED);
+    public static final Block CYAN_LAMP = registerBlock("cyan_lamp",
+            new ModLampBlock(FabricBlockSettings.of(Material.REDSTONE_LAMP).strength(0.3f).requiresTool().sounds(BlockSoundGroup.GLASS).luminance(state -> state.get(ModLampBlock.LIT) ? 15 : 0)),
+            ModItemGroup.VANILLA_EXTENDED);
+    public static final Block GREEN_LAMP = registerBlock("green_lamp",
+            new ModLampBlock(FabricBlockSettings.of(Material.REDSTONE_LAMP).strength(0.3f).requiresTool().sounds(BlockSoundGroup.GLASS).luminance(state -> state.get(ModLampBlock.LIT) ? 15 : 0)),
+            ModItemGroup.VANILLA_EXTENDED);
+    public static final Block LIGHT_BLUE_LAMP = registerBlock("light_blue_lamp",
+            new ModLampBlock(FabricBlockSettings.of(Material.REDSTONE_LAMP).strength(0.3f).requiresTool().sounds(BlockSoundGroup.GLASS).luminance(state -> state.get(ModLampBlock.LIT) ? 15 : 0)),
+            ModItemGroup.VANILLA_EXTENDED);
+    public static final Block LIME_LAMP = registerBlock("lime_lamp",
+            new ModLampBlock(FabricBlockSettings.of(Material.REDSTONE_LAMP).strength(0.3f).requiresTool().sounds(BlockSoundGroup.GLASS).luminance(state -> state.get(ModLampBlock.LIT) ? 15 : 0)),
+            ModItemGroup.VANILLA_EXTENDED);
+    public static final Block MAGNETA_LAMP = registerBlock("magenta_lamp",
+            new ModLampBlock(FabricBlockSettings.of(Material.REDSTONE_LAMP).strength(0.3f).requiresTool().sounds(BlockSoundGroup.GLASS).luminance(state -> state.get(ModLampBlock.LIT) ? 15 : 0)),
+            ModItemGroup.VANILLA_EXTENDED);
+    public static final Block ORANGE_LAMP = registerBlock("orange_lamp",
+            new ModLampBlock(FabricBlockSettings.of(Material.REDSTONE_LAMP).strength(0.3f).requiresTool().sounds(BlockSoundGroup.GLASS).luminance(state -> state.get(ModLampBlock.LIT) ? 15 : 0)),
+            ModItemGroup.VANILLA_EXTENDED);
+    public static final Block PINK_LAMP = registerBlock("pink_lamp",
+            new ModLampBlock(FabricBlockSettings.of(Material.REDSTONE_LAMP).strength(0.3f).requiresTool().sounds(BlockSoundGroup.GLASS).luminance(state -> state.get(ModLampBlock.LIT) ? 15 : 0)),
+            ModItemGroup.VANILLA_EXTENDED);
+    public static final Block RED_LAMP = registerBlock("red_lamp",
+            new ModLampBlock(FabricBlockSettings.of(Material.REDSTONE_LAMP).strength(0.3f).requiresTool().sounds(BlockSoundGroup.GLASS).luminance(state -> state.get(ModLampBlock.LIT) ? 15 : 0)),
+            ModItemGroup.VANILLA_EXTENDED);
+    public static final Block WHITE_LAMP = registerBlock("white_lamp",
+            new ModLampBlock(FabricBlockSettings.of(Material.REDSTONE_LAMP).strength(0.3f).requiresTool().sounds(BlockSoundGroup.GLASS).luminance(state -> state.get(ModLampBlock.LIT) ? 15 : 0)),
+            ModItemGroup.VANILLA_EXTENDED);
+    public static final Block YELLOW_LAMP = registerBlock("yellow_lamp",
+            new ModLampBlock(FabricBlockSettings.of(Material.REDSTONE_LAMP).strength(0.3f).requiresTool().sounds(BlockSoundGroup.GLASS).luminance(state -> state.get(ModLampBlock.LIT) ? 15 : 0)),
+            ModItemGroup.VANILLA_EXTENDED);
 
     private static Block registerBlock(String name, Block block, ItemGroup tab){
         registerBlockItem(name, block, tab);

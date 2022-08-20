@@ -24,6 +24,17 @@
     "vanillaextended:osmite_deepslate_ore",
     "vanillaextended:osmite_ore",
     "vanillaextended:steel_block",
-    "vanillaextended:mythril_block"
+    "vanillaextended:mythril_block",
+    "vanillaextended:blue_lamp",
+    "vanillaextended:cyan_lamp",
+    "vanillaextended:green_lamp",
+    "vanillaextended:light_blue_lamp",
+    "vanillaextended:lime_lamp",
+    "vanillaextended:magenta_lamp",
+    "vanillaextended:orange_lamp",
+    "vanillaextended:pink_lamp",
+    "vanillaextended:red_lamp",
+    "vanillaextended:white_lamp",
+    "vanillaextended:yellow_lamp"
   ]
 }

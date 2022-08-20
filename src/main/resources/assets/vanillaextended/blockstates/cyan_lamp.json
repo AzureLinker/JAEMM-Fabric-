@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "lit=true": {"model": "vanillaextended:block/cyan_lamp_on"},
+    "lit=false": {"model": "vanillaextended:block/cyan_lamp"}
+
+  }
+}
